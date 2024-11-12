@@ -1,19 +1,19 @@
-# 🏦 QuestionMarketCap (QMC)
+# 🏦 OpinionMarketCap (OMC)
 
 
-A decentralized opinion exchange platform where users can buy the right to answer questions. Think CoinMarketCap, but for opinions and answers rather than cryptocurrencies.
+A decentralized opinion exchange platform where users can buy the right to answer questions. Think CoinMarketCap/Polymarket, but for opinions and answers rather than cryptocurrencies.
 
 ## 🚀 Features
 
 * **Question Management**: Submit and manage questions with a unique ID system
-* **Answer Trading**: Buy the right to change answers with dynamic pricing
+* **Answer Trading**: Buy the right to change opinions with dynamic pricing
 * **Price Mechanism**: Dynamic pricing ranging from -20% to +100%
 * **Web3 Integration**: Built on Base blockchain with ThirdWeb integration
 * **Fee Structure**: 95% to answer owners, 5% to platform (first 100 questions)
 
 ## 🛠️ Tech Stack
 
-* **Frontend**: Next.js 14 with App Router
+* **Frontend**: Next.js 15 with App Router
 * **Web3**: ThirdWeb, Onchain Kit by Coinbase
 * **Blockchain**: Base
 * **UI**: TailwindCSS, Recharts
